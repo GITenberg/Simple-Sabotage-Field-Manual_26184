@@ -10,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31855
     wikipedia: http://en.wikipedia.org/wiki/Office_of_Strategic_Services
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26184#Simple-Sabotage-Field-Manual
 gutenberg_issued: '2008-08-04'
 gutenberg_type: Text
 identifiers:
