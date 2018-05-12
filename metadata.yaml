@@ -1,0 +1,25 @@
+_repo: Simple-Sabotage-Field-Manual_26184
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: United States. Office of Strategic Services
+    gutenberg_agent_id: '31855'
+    url: http://www.gutenberg.org/2009/agents/31855
+    wikipedia: http://en.wikipedia.org/wiki/Office_of_Strategic_Services
+description: ''
+gutenberg_issued: '2008-08-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26184'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sabotage'
+- !lcc 'UH'
+title: Simple Sabotage Field Manual
+url: http://www.gutenberg.org/ebooks/26184
