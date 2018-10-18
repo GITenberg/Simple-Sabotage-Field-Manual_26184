@@ -324,7 +324,7 @@ direct and immediate. Even if the effects are relatively minor and
 localized, this type of sabotage is to be preferred to activities whose
 effects, while widespread, are indirect and delayed.
 
-(1) The saboteur should be encouraged to attack__transportation
+(1) The saboteur should be encouraged to attack transportation
 facilities of all kinds.
 
 Among such facilities are roads, railroads, auto mobiles, trucks,
@@ -405,7 +405,7 @@ duty, you can be the first to report the fire, but don't report it too
 soon.
 
 (6) A clean factory is not susceptible to fire, but a dirty one
-is. Workers Should be careless with refuse and janitors should be
+is. Workers should be careless with refuse and janitors should be
 inefficient in cleaning. If enough dirt and trash can be accumulated an
 otherwise fireproof building will become inflammable.
 
@@ -459,7 +459,7 @@ are easily broken this way.
 (5) Bits and drills will snap under heavy pressure.
 
 (6) You can put a press punch out of order by putting in it more
-material than it is adjusted for two blanks instead of one, for example.
+material than it is adjusted for--two blanks instead of one, for example.
 
 (7) Power-driven tools like pneumatic drills, riveters, and so on, are
 never efficient when dirty. Lubrication points and electric contacts can
@@ -545,7 +545,7 @@ gasoline tank. Be sure that the particles are very fine, so that they
 will be able to pass through the carburetor jet.
 
 (4) Water, urine, wine, or any other simple liquid you can get in
-reasonably large quantities Will dilute gasoline fuel to a point where
+reasonably large quantities will dilute gasoline fuel to a point where
 no combustion will occur in the cylinder and the engine will not
 move. One pint to 20 gallons of gasoline is sufficient. If salt water is
 used, it will cause corrosion and permanent motor damage.
@@ -576,7 +576,7 @@ neighboring room are opened wide, you have a chance of setting a large
 fire which will not only destroy the gasoline but anything else nearby;
 when the gasoline explodes, the doors of the storage room will be blown
 open, a draft to the neighboring windows will be created which will whip
-up a fine conflagration,
+up a fine conflagration.
 
 (e) Electric Motors Electric motors (including dynamos) are more
 restricted than the targets so far discussed. They cannot be sabotaged
@@ -632,7 +632,8 @@ will stop after running awhile, and in the second, it will not start.
 (f) Transformers
 
 (1) Transformers of the oil-filled type can be put out of commission if
-you pour water, salt into the oil tank.
+you pour water, salt water, machine-tool coolant, or kerosene into the
+oil tank.
 
 (2) In air-cooled transformers, block the ventilation by piling debris
 around the transformer.
@@ -900,7 +901,7 @@ what has happened.
 
 (g) Gears
 
-(1) Remove the lubricant from or put, too light a lubricant in the
+(1) Remove the lubricant from or put too light a lubricant in the
 transmission and other gears.
 
 (2) In trucks, tractors, and other machines with heavy gears, fix the
@@ -968,7 +969,7 @@ of steel or iron near to it.
 (b) Cargo
 
 (1) While loading or unloading, handle cargo carelessly in order to
-cause damage. Ar range the cargo so that the weakest and lightest crates
+cause damage. Arrange the cargo so that the weakest and lightest crates
 and boxes will be at the bottom of the hold, while the heaviest ones are
 on top of them.
 
@@ -1011,7 +1012,7 @@ cells in half the batteries of the central battery room out of order.
 destinations.
 
 (2) Garble telegrams to enemy destinations so that another telegram will
-have to be sent or a long distance call will have to be made. Some times
+have to be sent or a long distance call will have to be made. Sometimes
 it will be possible to do this by changing a single letter in a word
 -- for example, changing "minimum" to "maximum," so that the person
 receiving the telegram will not know whether "minimum" or "maximum" is
@@ -1052,7 +1053,7 @@ heavy cotton blanket with a mouth full of marbles.
 
 (2) In your own apartment building, you can interfere with radio
 reception at times when the enemy wants everybody to listen. Take an
-electric light plug of! the end of an electric light cord; take some
+electric light plug off the end of an electric light cord; take some
 wire out of the cord and tie it across two terminals of a two-prong plug
 or three terminals of a four-prong plug. Then take it around and put it
 into as many wall and floor outlets as you can find. Each time you
@@ -1065,7 +1066,7 @@ radio interference in the immediate neighborhood, particularly on large
 generators, neon signs, fluorescent lighting, X-ray machines, and power
 lines. If workmen can damage insulation on a high tension line near an
 enemy airfield, they will make ground-to-plane radio communications
-difficult and per haps impossible during long periods of the day.
+difficult and perhaps impossible during long periods of the day.
 
 (10) Electric Power
 
@@ -1137,14 +1138,14 @@ work.
 first. See that the important jobs are assigned to inefficient workers
 of poor machines.
 
-(7) Insist on perfect work in relatively un important products; send
+(7) Insist on perfect work in relatively unimportant products; send
 back for refinishing those which have the least flaw. Approve other
 defective parts whose flaws are not visible to the naked eye.
 
 (8) Make mistakes in routing so that parts and materials will be sent to
 the wrong place in the plant.
 
-(9) When training new workers, give in complete or misleading
+(9) When training new workers, give incomplete or misleading
 instructions.
 
 (10) To lower morale and with it, production, be pleasant to inefficient
@@ -1184,7 +1185,7 @@ telephone.
 
 (d) Employees
 
-(1) Work slowly. Think out ways to in crease the number of movements
+(1) Work slowly. Think out ways to increase the number of movements
 necessary on your job: use a light hammer instead of a heavy one, try to
 make a small wrench do when a big one is necessary, use little force
 where considerable force is needed, and so on.
@@ -1247,7 +1248,7 @@ rationing, transportation, traffic regulations.
 (g) In public treat axis nationals or quislings coldly.
 
 (h) Stop all conversation when axis nationals or quislings enter a
-caf‚.
+cafe.
 
 (i) Cry and sob hysterically at every occasion, especially when
 confronted by government clerks.
